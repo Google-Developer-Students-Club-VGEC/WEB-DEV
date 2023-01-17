@@ -1,0 +1,8 @@
+1. How and where can we insert the javascript in our html file?
+2. Why we inspect tab (i.e. when we open a webpage we can inspect it with: right click->Inspect)
+3. document.getElementById()
+4. document.write()
+5. console.log()
+6. <script> tag and values we can pass in script tag (like src,type)
+7. Basic Input/Output
+8. Var
